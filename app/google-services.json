@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "683468183203",
+    "firebase_url": "https://csparql-web.firebaseio.com",
+    "project_id": "csparql-web",
+    "storage_bucket": "csparql-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683468183203:android:235706aa5035777a",
+        "android_client_info": {
+          "package_name": "com.example.ilce.semanticmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683468183203-r09i3ecssflnkp0agrm7eb893l1laomk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmLMpWgJW5BrebeyXZ66gRARYSU3XdzBI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

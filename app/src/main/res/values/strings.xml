@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">SemanticMobile</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_userName">Username</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_username">This username is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_invalid_login">The username or password is invalid</string>
+    <string name="error_invalid_taskName">The task name is invalid</string>
+    <string name="error_invalid_taskDesc">The description is too short</string>
+    <string name="error_creating_task">There was a problem with creating the task</string>
+    <string name="error_invalid_queryName">The query name is invalid</string>
+    <string name="error_invalid_queryBody">The query body is invalid</string>
+    <string name="error_creating_query">There was a problem with creating the query</string>
+
+    <!-- Url api strings -->
+    <string name="url_user"> http://192.168.0.104:8080/api/user </string>
+    <string name="url_query"> http://192.168.0.104:8080/api/user/%s/query </string>
+    <string name="url_event"> http://192.168.0.104:8080/api/event </string>
+    <string name="url_token"> http://192.168.0.104:8080/api/token </string>
+    <string name="url_get_users"> http://192.168.0.104:8080/api/users </string>
+
+
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_start_sending">Start sending data</string>
+    <string name="action_stop_sending">Stop sending data</string>
+    <string name="no_tasks_info">You currently have no tasks</string>
+    <string name="permission_explanation">The app requires permission to access this device\'s location ?</string>
+
+
+    <!-- Add task,query strings -->
+    <string name="prompt_taskName">Task name</string>
+    <string name="prompt_taskDescription">Task description</string>
+    <string name="action_add_task">Add task</string>
+    <string name="prompt_queryName">Query name</string>
+    <string name="prompt_queryBody">Query body</string>
+    <string name="action_add_query">Add query</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
